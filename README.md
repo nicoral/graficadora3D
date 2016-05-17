@@ -1,2 +1,2 @@
-# graficadora3D
-Una graficadora en 3 dimensiones.
+# Graficadora de funciones
+  Graficadora 2D y 3D de funciones, con interfaz, y sin bucles.
